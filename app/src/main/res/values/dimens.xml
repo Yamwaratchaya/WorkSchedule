@@ -2,5 +2,6 @@
 <resources>
     <dimen name="margin">30dp</dimen>
     <dimen name="h1">24sp</dimen>
+    <dimen name="h2">18sp</dimen>
 
 </resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116289539713",
+    "firebase_url": "https://workschedule-3709f.firebaseio.com",
+    "project_id": "workschedule-3709f",
+    "storage_bucket": "workschedule-3709f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116289539713:android:7281f9b1200fd7de",
+        "android_client_info": {
+          "package_name": "yamwaratchaya.th.co.tanproduct.workschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116289539713-lqrqa0jnvee0hnft8lpiqqq4mtq5js89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yamwaratchaya.th.co.tanproduct.workschedule",
+            "certificate_hash": "cd90407b3779d52954b3e552d22a98012aa6caa1"
+          }
+        },
+        {
+          "client_id": "116289539713-msmg13fevvgqk25dtgj05cvlksabo1hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdZHwwxCkQcVd5CqWfeqGO-FCvbTf3Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116289539713-msmg13fevvgqk25dtgj05cvlksabo1hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

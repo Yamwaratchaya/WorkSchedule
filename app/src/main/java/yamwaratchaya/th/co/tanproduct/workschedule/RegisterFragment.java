@@ -91,9 +91,9 @@ public class RegisterFragment extends Fragment {
                                 databaseReference.setValue(userModel).addOnSuccessListener(new OnSuccessListener<Void>() {
                                     @Override
                                     public void onSuccess(Void aVoid) {
-                                        
+
                                     }
-                                })
+                                });
 
 
 
